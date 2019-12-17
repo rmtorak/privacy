@@ -1,5 +1,5 @@
 PRIVACY POLICY
-developer ("developer") built the apps as an Ad Supported app. This SERVICE ("apps") is provided by at no cost and is intended for use as is:
+developer ("rmtorak") built the apps as an Ad Supported app. This SERVICE ("apps") is provided by at no cost and is intended for use as is:
 
 This privacy policy is used to inform you regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
 
